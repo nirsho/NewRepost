@@ -3488,3 +3488,6 @@ KeyError: 'JIRA'
 [2024-09-02T10:41:13] INFO [JIRAREPORTS.main:439] Start periodic procedure
 [2024-09-02T10:41:13] INFO [JIRAREPORTS.retriveReports:157] Starting retriveReports from JIRA
 [2024-09-02T10:41:19] INFO [JIRAREPORTS.addMonthlyYTD:380] Starting YTD for Created VS resolved
+[2024-09-04T12:33:56] INFO [JIRAREPORTS.main:425] JiraReports is starting ...
+[2024-09-04T12:33:56] INFO [JIRAREPORTS.main:431] Starting config file parsing
+[2024-09-04T12:33:56] INFO [JIRAREPORTS.main:434] Finished config file parsing
